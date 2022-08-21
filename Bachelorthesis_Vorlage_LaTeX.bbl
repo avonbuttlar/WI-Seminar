@@ -1,0 +1,389 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Engelhardt}{book}{}
+      \name{author}{1}{}{%
+        {{hash=29fb329764ea193d5385a9180fe38e32}{%
+           family={Benedikt\bibnamedelima Quarch},
+           familyi={B\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           given={Clemens\bibnamedelima Engelhardt},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden GmbH}%
+      }
+      \strng{namehash}{29fb329764ea193d5385a9180fe38e32}
+      \strng{fullhash}{29fb329764ea193d5385a9180fe38e32}
+      \strng{bibnamehash}{29fb329764ea193d5385a9180fe38e32}
+      \strng{authorbibnamehash}{29fb329764ea193d5385a9180fe38e32}
+      \strng{authornamehash}{29fb329764ea193d5385a9180fe38e32}
+      \strng{authorfullhash}{29fb329764ea193d5385a9180fe38e32}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-658-36359-8}
+      \field{title}{LegalTech}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{STARStatistik}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ee6af966d4dd834335ce03202288034a}{%
+           family={Eggert},
+           familyi={E\bibinitperiod},
+           given={Nicole\bibnamedelimb Genitheim\bibnamedelima Kerstin},
+           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee6af966d4dd834335ce03202288034a}
+      \strng{fullhash}{ee6af966d4dd834335ce03202288034a}
+      \strng{bibnamehash}{ee6af966d4dd834335ce03202288034a}
+      \strng{authorbibnamehash}{ee6af966d4dd834335ce03202288034a}
+      \strng{authornamehash}{ee6af966d4dd834335ce03202288034a}
+      \strng{authorfullhash}{ee6af966d4dd834335ce03202288034a}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{journaltitle}{Institut für Freie Berufe an der Friedrich-Alexander-Universität}
+      \field{month}{6}
+      \field{title}{STAR 2020}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.brak.de/presse/zahlen-und-statistiken/star/star-2020/
+      \endverb
+      \verb{url}
+      \verb https://www.brak.de/presse/zahlen-und-statistiken/star/star-2020/
+      \endverb
+    \endentry
+    \entry{Friedmann}{online}{}
+      \name{author}{1}{}{%
+        {{hash=806d1260b836010ee16be0d06c9e4865}{%
+           family={Firedmann},
+           familyi={F\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{806d1260b836010ee16be0d06c9e4865}
+      \strng{fullhash}{806d1260b836010ee16be0d06c9e4865}
+      \strng{bibnamehash}{806d1260b836010ee16be0d06c9e4865}
+      \strng{authorbibnamehash}{806d1260b836010ee16be0d06c9e4865}
+      \strng{authornamehash}{806d1260b836010ee16be0d06c9e4865}
+      \strng{authorfullhash}{806d1260b836010ee16be0d06c9e4865}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{journaltitle}{Neue Juristische Wochenschrift - Sonderheft: Innovationen und Legal Tech}
+      \field{month}{5}
+      \field{title}{Legal Tech - Jetzt spricht der Mandant}
+      \field{urlday}{25}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb 	https://d1v6uc6bimcvsy.cloudfront.net/graphx/pdfs/legaltech_23052017.pdf
+      \endverb
+      \verb{url}
+      \verb https://d1v6uc6bimcvsy.cloudfront.net/graphx/pdfs/legaltech_23052017.pdf
+      \endverb
+    \endentry
+    \entry{onlineVerhandlungen}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3bdde027e7b74521a44d2795343f5607}{%
+           family={Fries},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3bdde027e7b74521a44d2795343f5607}
+      \strng{fullhash}{3bdde027e7b74521a44d2795343f5607}
+      \strng{bibnamehash}{3bdde027e7b74521a44d2795343f5607}
+      \strng{authorbibnamehash}{3bdde027e7b74521a44d2795343f5607}
+      \strng{authornamehash}{3bdde027e7b74521a44d2795343f5607}
+      \strng{authorfullhash}{3bdde027e7b74521a44d2795343f5607}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{month}{9}
+      \field{title}{Die vollvirtuelle Verhandlung – Quo vadis, § 128a ZPO?}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://doi.org/10.9785/gvrz-2020-030217
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.9785/gvrz-2020-030217
+      \endverb
+    \endentry
+    \entry{Kategoirien}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b40a399b2f2ab6ee5f7da0907d1e161c}{%
+           family={Goodenough},
+           familyi={G\bibinitperiod},
+           given={Oliver\bibnamedelima R.},
+           giveni={O\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b40a399b2f2ab6ee5f7da0907d1e161c}
+      \strng{fullhash}{b40a399b2f2ab6ee5f7da0907d1e161c}
+      \strng{bibnamehash}{b40a399b2f2ab6ee5f7da0907d1e161c}
+      \strng{authorbibnamehash}{b40a399b2f2ab6ee5f7da0907d1e161c}
+      \strng{authornamehash}{b40a399b2f2ab6ee5f7da0907d1e161c}
+      \strng{authorfullhash}{b40a399b2f2ab6ee5f7da0907d1e161c}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{month}{4}
+      \field{title}{Legal Technology 3.0}
+      \field{urlday}{15}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.huffpost.com/entry/legal-technology-30_b_6603658
+      \endverb
+      \verb{url}
+      \verb https://www.huffpost.com/entry/legal-technology-30_b_6603658
+      \endverb
+    \endentry
+    \entry{StatistikUmsatz}{online}{}
+      \name{author}{1}{}{%
+        {{hash=997752d0e7eccf0d705ad1b977fcdae6}{%
+           family={Graefe},
+           familyi={G\bibinitperiod},
+           given={Lena},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{997752d0e7eccf0d705ad1b977fcdae6}
+      \strng{fullhash}{997752d0e7eccf0d705ad1b977fcdae6}
+      \strng{bibnamehash}{997752d0e7eccf0d705ad1b977fcdae6}
+      \strng{authorbibnamehash}{997752d0e7eccf0d705ad1b977fcdae6}
+      \strng{authornamehash}{997752d0e7eccf0d705ad1b977fcdae6}
+      \strng{authorfullhash}{997752d0e7eccf0d705ad1b977fcdae6}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{journaltitle}{Statista}
+      \field{month}{2}
+      \field{title}{Umsatz der Unternehmen und Einrichtungen der Branche Rechtsberatung in Deutschland von 2008 bis 2018}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://de.statista.com/statistik/daten/studie/257434/umfrage/umsatz-der-rechtsberatungsunternehmen/
+      \endverb
+      \verb{url}
+      \verb https://de.statista.com/statistik/daten/studie/257434/umfrage/umsatz-der-rechtsberatungsunternehmen/
+      \endverb
+    \endentry
+    \entry{Arbeitswelt}{book}{}
+      \name{author}{1}{}{%
+        {{hash=efd745da3920948977e4dba259299a79}{%
+           family={Inka\bibnamedelima Knappertsbusch},
+           familyi={I\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Kai\bibnamedelima Gondlach},
+           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden GmbH}%
+      }
+      \strng{namehash}{efd745da3920948977e4dba259299a79}
+      \strng{fullhash}{efd745da3920948977e4dba259299a79}
+      \strng{bibnamehash}{efd745da3920948977e4dba259299a79}
+      \strng{authorbibnamehash}{efd745da3920948977e4dba259299a79}
+      \strng{authornamehash}{efd745da3920948977e4dba259299a79}
+      \strng{authorfullhash}{efd745da3920948977e4dba259299a79}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-658-35778-8}
+      \field{title}{Arbeitswelt und KI 2030}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{LegalTech}{book}{}
+      \name{author}{1}{}{%
+        {{hash=17332a218fd2ac1050b9ac90daa49695}{%
+           family={Maringele},
+           familyi={M\bibinitperiod},
+           given={Sophie\bibnamedelimb Martinetz\bibnamedelima Sarah},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden GmbH}%
+      }
+      \strng{namehash}{17332a218fd2ac1050b9ac90daa49695}
+      \strng{fullhash}{17332a218fd2ac1050b9ac90daa49695}
+      \strng{bibnamehash}{17332a218fd2ac1050b9ac90daa49695}
+      \strng{authorbibnamehash}{17332a218fd2ac1050b9ac90daa49695}
+      \strng{authornamehash}{17332a218fd2ac1050b9ac90daa49695}
+      \strng{authorfullhash}{17332a218fd2ac1050b9ac90daa49695}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-658-28552-4}
+      \field{title}{Legal Tech}
+      \field{year}{2020}
+    \endentry
+    \entry{SmartContracts}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a82d56a1dd2ce445bc0de7a14b8e5bd4}{%
+           family={Martin\bibnamedelima Fries},
+           familyi={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Boris\bibnamedelimb P.\bibnamedelimi Paal},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mohr Siebeck GmbH und Co. KG}%
+      }
+      \strng{namehash}{a82d56a1dd2ce445bc0de7a14b8e5bd4}
+      \strng{fullhash}{a82d56a1dd2ce445bc0de7a14b8e5bd4}
+      \strng{bibnamehash}{a82d56a1dd2ce445bc0de7a14b8e5bd4}
+      \strng{authorbibnamehash}{a82d56a1dd2ce445bc0de7a14b8e5bd4}
+      \strng{authornamehash}{a82d56a1dd2ce445bc0de7a14b8e5bd4}
+      \strng{authorfullhash}{a82d56a1dd2ce445bc0de7a14b8e5bd4}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-16-156910-4}
+      \field{title}{Smart Contracts}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{DigiInno}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f69ddaeae3e6ab263f4da30c2dd83484}{%
+           family={Schieblon},
+           familyi={S\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden GmbH}%
+      }
+      \strng{namehash}{f69ddaeae3e6ab263f4da30c2dd83484}
+      \strng{fullhash}{f69ddaeae3e6ab263f4da30c2dd83484}
+      \strng{bibnamehash}{f69ddaeae3e6ab263f4da30c2dd83484}
+      \strng{authorbibnamehash}{f69ddaeae3e6ab263f4da30c2dd83484}
+      \strng{authornamehash}{f69ddaeae3e6ab263f4da30c2dd83484}
+      \strng{authorfullhash}{f69ddaeae3e6ab263f4da30c2dd83484}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-658-35528-9}
+      \field{title}{Digitalisierung und Innovation in Kanzleien}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{LegalRobots}{book}{}
+      \name{author}{1}{}{%
+        {{hash=243a667440a9dd74c9ee53e957e4ae99}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden GmbH}%
+      }
+      \strng{namehash}{243a667440a9dd74c9ee53e957e4ae99}
+      \strng{fullhash}{243a667440a9dd74c9ee53e957e4ae99}
+      \strng{bibnamehash}{243a667440a9dd74c9ee53e957e4ae99}
+      \strng{authorbibnamehash}{243a667440a9dd74c9ee53e957e4ae99}
+      \strng{authornamehash}{243a667440a9dd74c9ee53e957e4ae99}
+      \strng{authorfullhash}{243a667440a9dd74c9ee53e957e4ae99}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-658-20056-5}
+      \field{title}{Legal Tech und Legal Robots}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{LegalTechKategorien}{online}{}
+      \name{author}{1}{}{%
+        {{hash=43810ca6b809eaf5bcea2f6fd6605a53}{%
+           family={Waltl},
+           familyi={W\bibinitperiod},
+           given={Jacob\bibnamedelimb und\bibnamedelima Schindler},
+           giveni={J\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{43810ca6b809eaf5bcea2f6fd6605a53}
+      \strng{fullhash}{43810ca6b809eaf5bcea2f6fd6605a53}
+      \strng{bibnamehash}{43810ca6b809eaf5bcea2f6fd6605a53}
+      \strng{authorbibnamehash}{43810ca6b809eaf5bcea2f6fd6605a53}
+      \strng{authornamehash}{43810ca6b809eaf5bcea2f6fd6605a53}
+      \strng{authorfullhash}{43810ca6b809eaf5bcea2f6fd6605a53}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{journaltitle}{Wirtschaftsinformatik und Management 12/2020}
+      \field{month}{11}
+      \field{title}{Legal Tech – interdisziplinär und kollaborativ}
+      \field{urlday}{21}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1365/s35764-020-00300-z
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1365/s35764-020-00300-z
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

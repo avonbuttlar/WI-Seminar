@@ -1,0 +1,47 @@
+% HTWG
+\usepackage{graphicx}
+\usepackage{a4}
+\usepackage[ngerman]{babel}
+\usepackage[babel,german=quotes]{csquotes}
+
+% Eigene
+\usepackage[utf8]{inputenc} %% Umlaute
+\usepackage[dua]{acronym} %% Abkuerzungsverzeichnis (nur verwendete)
+\usepackage{todonotes} %% TODOs moeglich mit \todo{}
+\usepackage{booktabs} %% Tabellen
+\usepackage{amsmath} %% Formeln
+\usepackage{listings} %% Codebeispiele
+\usepackage{subfigure} %% Mehrere Bilder nebeneinander
+\usepackage{hyperref} %% referenzen innerhalb und außerhalb des Dokumentes
+\usepackage[headsepline]{scrlayer-scrpage} %%Numerrierung der Seiten + Kapitelnamen in Kopfzeile inkl. Trennstrich
+\pagestyle{scrheadings} %% die folgenden Zeilen sorgen für die korrekte Nummerierung und deren Anzeige 
+\clearpairofpagestyles %% und für die Kopfzeile mit aktuellem Kapitel etc.
+\ihead{\headmark}
+\cfoot[\pagemark]{\pagemark}
+\automark{chapter}
+\usepackage{float} %% Floatpackage um Grafik-Positionen zu forcieren
+\newcommand*{\quelle}[1]{\par\raggedleft\footnotesize Quelle:~#1}
+  \usepackage[
+backend=biber,
+style=numeric,
+]{biblatex}
+\addbibresource{neueBib.bib}
+
+% Eigenes Design 
+%TODO loeschen wenn default HTWG Design (was es nicht wirklich gibt) gewuuenscht ist
+\usepackage[a4paper, left=2cm, right=5cm, top=2cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{mathptmx}
+\usepackage[T1]{fontenc}
+
+
+% KOMA script anpassungen 
+%TODO entfernen wenn kein KOMA Script gewuenscht
+\usepackage{scrhack}
+
+%%%%%%%% Codebeispiele
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{caption}

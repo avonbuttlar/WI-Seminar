@@ -1,0 +1,45 @@
+\documentclass[
+		11pt,
+		a4paper,
+		toc=listof, %% Abbildungs- und Tabellenverzeichnis mit ins Inhaltsverzeichnis
+		bibliography=totoc %% Quellenverzeichnis mit ins Inhaltsverzeichnis
+		]{scrreprt}	 %% KOMA Script
+
+\input{preamble/packete}
+\input{preamble/optionen}
+\input{preamble/variablen}
+
+
+\begin{document}
+%% Nummerierung aus
+\pagenumbering{gobble}
+
+% HTWG Templates fuer Titelseite etc.
+\include{htwg/cover}
+\pagenumbering{Roman}
+\tableofcontents
+\addcontentsline{toc}{chapter}{Inhaltsverzeichnis}
+
+\clearpage
+%% Starte Paginierung
+\linespread{1.25}
+\pagenumbering{arabic}
+
+\include{kapitel1/Einleitung}
+
+\include{kapitel2/Grundlagen}
+
+\include{kapitel3/Einsatzbereiche von Legal Tech}
+
+\include{kapitel4/Rechtliche und technische Herausforderungen}
+
+\include{kapitel5/Rechtliche Implekationen}
+
+\include{kaptiel6/fazit}
+
+\printbibliography
+
+\listoffigures
+
+\end{document}
+
